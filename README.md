@@ -6,13 +6,9 @@
 
 - 🌱 I’m currently learning **android development**
 
-- 👨‍💻 All of my projects are available at [iashutosh75.github.io](iashutosh75.github.io)
-
 - 💬 Ask me about **web dev and android development**
 
 - 📫 How to reach me **bro4code@gmail.com**
-
-- 📄 Know about my experiences [iashutosh75.github.io](iashutosh75.github.io)
 
 - ⚡ Fun fact **love cats**
 
