@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar Singh</h1>
-<h3 align="center">Freshman at Chandigarh University | UI/UX | Android and Web Development</h3>
+<h3 align="center">Sophomore at Chandigarh University | UI/UX | Android and Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iashutosh75&label=Profile%20views&color=0e75b6&style=flat" alt="iashutosh75" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
