@@ -19,8 +19,8 @@
 <a href="https://instagram.com/iashutos_h" target="_blank">Instagram</a> ·
 
 <div align="center">
-<details open>
-<summary align="center"><h2 >Techstack <img src="https://cdn.discordapp.com/emojis/804331814004850698.png?v=1" width="30px"></h2></summary>
+ <br>
+<summary><h2 align="center" > ------ Techstack <img src="https://cdn.discordapp.com/emojis/804331814004850698.png?v=1" width="30px">------</h2></summary>
 <h4>Languages</h4>
 <img src="https://img.shields.io/badge/-cpp-silver?style=for-the-badge">
 <img src="https://img.shields.io/badge/-python-silver?style=for-the-badge">
@@ -42,7 +42,6 @@
 <img src="https://img.shields.io/badge/-github-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/-vs code-silver?style=for-the-badge">
 <br>
-</details>
 </div>
 
 <div  align="center">
