@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://linkedin.com/in/iashutosh75" target="_blank">LinkedIn</a> ·
+<a href="https://linkedin.com/in/iashutosh75" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-silver?style=for-the-badge"></a>
 
-<a href="https://instagram.com/iashutos_h" target="_blank">Instagram</a> ·
+<a href="https://instagram.com/iashutos_h" target="_blank"><img src="https://img.shields.io/badge/-Instagram-grey?style=for-the-badge"></a>
 
 <div align="center">
  <br>
