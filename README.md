@@ -10,7 +10,7 @@
 
 
 <div align="center">
-<details>
+<details open>
  
 <summary><h2 align="center" > ------ Techstack <img src="https://cdn.discordapp.com/emojis/804331814004850698.png?v=1" width="30px">------</h2></summary>
 <h4>Languages</h4>
@@ -38,11 +38,10 @@
 </div>
 
 <div  align="center">
-<details>
+<details open>
  
 <summary><h2>-------- Stats :) -------- </h2></summary>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iashutosh75&show_icons=true&locale=en&layout=compact" alt="iashutosh75" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iashutosh75&" alt="iashutosh75" /></p>
 
 </details>
 </div>
