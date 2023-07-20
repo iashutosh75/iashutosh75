@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 <a href="https://linkedin.com/in/iashutosh75" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-silver?style=for-the-badge"></a>
 
