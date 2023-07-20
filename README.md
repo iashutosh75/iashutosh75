@@ -4,13 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iashutosh75&label=Profile%20views&color=0e75b6&style=flat" alt="iashutosh75" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
-- 🌱 I’m currently learning **android development**
 
-- 💬 Ask me about **web dev and android development**
-
-- 📫 How to reach me **bro4code@gmail.com**
-
-- ⚡ Fun fact **love cats**
+- 📫 Drop a mail **bro4code@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
