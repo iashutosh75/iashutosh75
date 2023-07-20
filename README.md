@@ -41,8 +41,6 @@
 <summary><h2>-------- Stats :) -------- </h2></summary>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iashutosh75&show_icons=true&locale=en&layout=compact" alt="iashutosh75" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iashutosh75&show_icons=true&locale=en" alt="iashutosh75" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iashutosh75&" alt="iashutosh75" /></p>
 </details>
 </div>
