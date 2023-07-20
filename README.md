@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://cdn.discordapp.com/emojis/708780901642797076.gif" height="35px"> </h1>
+<h1 align="center"><img src="https://cdn.discordapp.com/emojis/708780901642797076.gif" height="35px"> </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iashutosh75&label=Profile%20views&color=0e75b6&style=flat" alt="iashutosh75" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
