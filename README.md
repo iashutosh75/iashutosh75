@@ -35,6 +35,8 @@
 <img src="https://img.shields.io/badge/-git-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/-github-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/-vs code-silver?style=for-the-badge">
+<img src="https://img.shields.io/badge/-vercel-grey?style=for-the-badge">
+
 
 </details>
 </div>
