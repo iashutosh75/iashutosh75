@@ -16,9 +16,9 @@
  
 <summary><h2 align="center" > -- Techstack <img src="https://cdn.discordapp.com/emojis/804331814004850698.png?v=1" width="30px"> --</h2></summary>
 <h4>Languages</h4>
-<img src="https://img.shields.io/badge/-cpp-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-python-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-c language-silver?style=for-the-badge">
+<img src="https://img.shields.io/badge/-CPP-silver?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Python-silver?style=for-the-badge">
+<img src="https://img.shields.io/badge/-C language-silver?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Dart-silver?style=for-the-badge">
 
 <br>
@@ -28,8 +28,9 @@
 
 <h4>Libraries and Frameworks</h4>
 <!-- <img src="https://img.shields.io/badge/-React-silver?style=for-the-badge"> -->
-<img src="https://img.shields.io/badge/-Firebase Database-grey?style=for-the-badge" >
+<img src="https://img.shields.io/badge/-Firebase-grey?style=for-the-badge" >
 <img src="https://img.shields.io/badge/-Flutter-silver?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Tailwind CSS-silver?style=for-the-badge">
 
 <h4>Software and Tools</h4>
 <img src="https://img.shields.io/badge/-git-grey?style=for-the-badge">
