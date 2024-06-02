@@ -8,7 +8,7 @@
 
 <p align="center"><a href="https://linkedin.com/in/iashutosh75" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge"></a></p>
 
-<p align="center"><a href="https://instagram.com/iashutos_h" target="_blank"><img src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge"></a></p>
+<p align="center"><a href="https://instagram.com/ashutos.h1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge"></a></p>
 
 
 <div align="center">
