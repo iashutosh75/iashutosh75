@@ -6,10 +6,6 @@
 
 <p align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Mail: bro4code@gmail.com-white?style=for-the-badge"></a></p>
 
-<p align="center"><a href="https://linkedin.com/in/iashutosh75" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge"></a></p>
-
-<p align="center"><a href="https://instagram.com/ashutos.h1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge"></a></p>
-
 
 <div align="center">
 <details open>
@@ -27,7 +23,6 @@
 <img src="https://img.shields.io/badge/-Javascript-grey?style=for-the-badge">
 
 <h4>Libraries and Frameworks</h4>
-<!-- <img src="https://img.shields.io/badge/-React-silver?style=for-the-badge"> -->
 <img src="https://img.shields.io/badge/-Firebase-grey?style=for-the-badge" >
 <img src="https://img.shields.io/badge/-Flutter-silver?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Tailwind CSS-silver?style=for-the-badge">
