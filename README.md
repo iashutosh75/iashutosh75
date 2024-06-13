@@ -23,11 +23,12 @@
 <img src="https://img.shields.io/badge/-Javascript-grey?style=for-the-badge">
 
 <h4>Libraries and Frameworks</h4>
-<img src="https://img.shields.io/badge/-Firebase-grey?style=for-the-badge" >
 <img src="https://img.shields.io/badge/-Flutter-silver?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Tailwind CSS-silver?style=for-the-badge">
+<img src="https://img.shields.io/badge/-React-grey?style=for-the-badge" >
 
 <h4>Software and Tools</h4>
+<img src="https://img.shields.io/badge/-Firebase-grey?style=for-the-badge" >
 <img src="https://img.shields.io/badge/-git-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/-github-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/-vs code-silver?style=for-the-badge">
