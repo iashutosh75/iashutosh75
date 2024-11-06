@@ -2,10 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iashutosh75&label=Profile%20views&color=0e75b6&style=flat" alt="iashutosh75" /> </p>
 
-<h3 align="center">Connect with me:</h3>
-
-<p align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Mail: bro4code@gmail.com-white?style=for-the-badge"></a></p>
-
 
 <div align="center">
 <details open>
